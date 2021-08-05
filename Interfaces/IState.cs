@@ -1,5 +1,13 @@
 namespace Assi3 {
-    public interface IState {
-        void Run(); // called on creation
+    public class IState {
+
+        protected FormComponent _fc;
+
+        public IState(FormComponent fc)
+        {
+            _fc = fc;
+        }
+
+        public virtual void Run() { } // called on creation
     }
 }

@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Assi3.Classes;
+using Assi3.Classes.Components;
+using Assi3.Classes.Validators;
+using System;
 
 namespace Assi3
 {
@@ -21,8 +24,8 @@ namespace Assi3
         static void Main(string[] args)
         {
             Form form = new Form();
-            /*
-            Create classes that let you execute the following code:
+            
+            //Create classes that let you execute the following code:
             
             form.AddComponent(
                 new MinLengthValidator(
@@ -59,7 +62,7 @@ namespace Assi3
                     new TextBox("Age")
                 )
             );
-            */
+            
 
             new StateContext().Run(form);
         }

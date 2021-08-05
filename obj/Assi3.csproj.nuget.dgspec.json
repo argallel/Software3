@@ -1,32 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\fanshawe\\Summer 2019\\INFO3137\\Assi3Starter\\Assi3.csproj": {}
+    "C:\\Users\\kathe\\OneDrive\\School\\Fourth Semester\\Software Design Patterns\\Assi3Starter\\Assi3.csproj": {}
   },
   "projects": {
-    "C:\\fanshawe\\Summer 2019\\INFO3137\\Assi3Starter\\Assi3.csproj": {
+    "C:\\Users\\kathe\\OneDrive\\School\\Fourth Semester\\Software Design Patterns\\Assi3Starter\\Assi3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\fanshawe\\Summer 2019\\INFO3137\\Assi3Starter\\Assi3.csproj",
+        "projectUniqueName": "C:\\Users\\kathe\\OneDrive\\School\\Fourth Semester\\Software Design Patterns\\Assi3Starter\\Assi3.csproj",
         "projectName": "Assi3",
-        "projectPath": "C:\\fanshawe\\Summer 2019\\INFO3137\\Assi3Starter\\Assi3.csproj",
-        "packagesPath": "C:\\Users\\Kyle\\.nuget\\packages\\",
-        "outputPath": "C:\\fanshawe\\Summer 2019\\INFO3137\\Assi3Starter\\obj\\",
+        "projectPath": "C:\\Users\\kathe\\OneDrive\\School\\Fourth Semester\\Software Design Patterns\\Assi3Starter\\Assi3.csproj",
+        "packagesPath": "C:\\Users\\kathe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kathe\\OneDrive\\School\\Fourth Semester\\Software Design Patterns\\Assi3Starter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Kyle\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -38,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -47,10 +52,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }
