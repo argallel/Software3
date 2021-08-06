@@ -18,6 +18,7 @@ namespace Assi3.Classes.Validators
         public override void getValue()
         {
             fc.getValue();
+            validate();
         }
 
         public override void print()

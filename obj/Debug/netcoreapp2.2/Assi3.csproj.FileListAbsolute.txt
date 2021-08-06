@@ -1,0 +1,12 @@
+C:\$$Visual_Workspace02\SDProject3\bin\Debug\netcoreapp2.2\Assi3.deps.json
+C:\$$Visual_Workspace02\SDProject3\bin\Debug\netcoreapp2.2\Assi3.runtimeconfig.json
+C:\$$Visual_Workspace02\SDProject3\bin\Debug\netcoreapp2.2\Assi3.runtimeconfig.dev.json
+C:\$$Visual_Workspace02\SDProject3\bin\Debug\netcoreapp2.2\Assi3.dll
+C:\$$Visual_Workspace02\SDProject3\bin\Debug\netcoreapp2.2\Assi3.pdb
+C:\$$Visual_Workspace02\SDProject3\obj\Debug\netcoreapp2.2\Assi3.csproj.AssemblyReference.cache
+C:\$$Visual_Workspace02\SDProject3\obj\Debug\netcoreapp2.2\Assi3.AssemblyInfoInputs.cache
+C:\$$Visual_Workspace02\SDProject3\obj\Debug\netcoreapp2.2\Assi3.AssemblyInfo.cs
+C:\$$Visual_Workspace02\SDProject3\obj\Debug\netcoreapp2.2\Assi3.csproj.CoreCompileInputs.cache
+C:\$$Visual_Workspace02\SDProject3\obj\Debug\netcoreapp2.2\Assi3.dll
+C:\$$Visual_Workspace02\SDProject3\obj\Debug\netcoreapp2.2\Assi3.pdb
+C:\$$Visual_Workspace02\SDProject3\obj\Debug\netcoreapp2.2\Assi3.genruntimeconfig.cache

@@ -1,23 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kathe\\OneDrive\\School\\Fourth Semester\\Software Design Patterns\\Assi3Starter\\Assi3.csproj": {}
+    "C:\\$$Visual_Workspace02\\SDProject3\\Assi3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kathe\\OneDrive\\School\\Fourth Semester\\Software Design Patterns\\Assi3Starter\\Assi3.csproj": {
+    "C:\\$$Visual_Workspace02\\SDProject3\\Assi3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kathe\\OneDrive\\School\\Fourth Semester\\Software Design Patterns\\Assi3Starter\\Assi3.csproj",
+        "projectUniqueName": "C:\\$$Visual_Workspace02\\SDProject3\\Assi3.csproj",
         "projectName": "Assi3",
-        "projectPath": "C:\\Users\\kathe\\OneDrive\\School\\Fourth Semester\\Software Design Patterns\\Assi3Starter\\Assi3.csproj",
-        "packagesPath": "C:\\Users\\kathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kathe\\OneDrive\\School\\Fourth Semester\\Software Design Patterns\\Assi3Starter\\obj\\",
+        "projectPath": "C:\\$$Visual_Workspace02\\SDProject3\\Assi3.csproj",
+        "packagesPath": "C:\\Users\\Sirus CPA Laptop\\.nuget\\packages\\",
+        "outputPath": "C:\\$$Visual_Workspace02\\SDProject3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\kathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sirus CPA Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -61,7 +64,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

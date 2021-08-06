@@ -6,10 +6,14 @@ namespace Assi3.Classes.States
 {
     class EnterState : IState
     {
-        public EnterState(FormComponent fc) : base(fc) { }
-        public void Run()
+        public EnterState(Form fc) : base(fc) { }
+
+        override public void Run(Form form)
         {
-            Console.WriteLine("Run in enter state");
+            //user input goes here
+            foreach ( FormComponent comp in form.components) {
+                comp.getValue();
+            }
         }
     }
 }
