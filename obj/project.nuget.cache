@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "7pDjdtY6ToG1uAMgYJkIIfpfcvaGRlBNWWVEbIOhH0/RO1bUEOFA/fmZholfsKIXwV4vXxmsYknzG69sPvYJSA==",
+  "dgSpecHash": "0tQ8aXDRMZUe1wKT9lBZSYNvesQYh6oe6AnSEUjNbBrR4kfgZLqi4FrV0g+eWVlTEnEanNUIRfz3fToudWA+HA==",
   "success": true,
-  "projectFilePath": "C:\\$$Visual_Workspace02\\SDProject3\\Assi3.csproj",
+  "projectFilePath": "C:\\Users\\kathe\\OneDrive\\School\\Fourth Semester\\Software Design Patterns\\Assi3Starter\\Assi3.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Sirus CPA Laptop\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
-    "C:\\Users\\Sirus CPA Laptop\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
-    "C:\\Users\\Sirus CPA Laptop\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
-    "C:\\Users\\Sirus CPA Laptop\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
-    "C:\\Users\\Sirus CPA Laptop\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
-    "C:\\Users\\Sirus CPA Laptop\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
-    "C:\\Users\\Sirus CPA Laptop\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\kathe\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\kathe\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\kathe\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\kathe\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\kathe\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\kathe\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\kathe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

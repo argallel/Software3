@@ -10,9 +10,15 @@ namespace Assi3
         private Form form;
 
         public void Run(Form form) {
+
+            Console.Clear();
+            Console.WriteLine("Welcome to the Form.");
             this.form = form;
 
             form.ChangeState(new EnterState(form));
+            form.formState.Run(form);
+
+            form.ChangeState(new DoneState(form));
             form.formState.Run(form);
         }
 
@@ -27,8 +33,6 @@ namespace Assi3
         {
 
             Form form = new Form();
-
-            Console.WriteLine("Welcome to the Form.");
 
 
             //Create classes that let you execute the following code:

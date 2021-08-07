@@ -13,16 +13,16 @@ namespace Assi3.Classes.Validators
             this.fc = fc;
         }
 
-        public override void getValue()
+        public override string getValue()
         {
-            fc.getValue();
+            value = fc.getValue();
             validate();
+            return value;
         }
 
         public override void print()
         {
             fc.print();
-            Console.WriteLine("With a number validator");
         }
 
         public override void setValue(string value)
@@ -32,7 +32,7 @@ namespace Assi3.Classes.Validators
 
         public void validate()
         {
-            if(!Int32.TryParse(fc.value, out int x))
+            if(!Int32.TryParse(value, out int x))
             {
                 Console.WriteLine("Input is not a valid integer.");
                 fc.getValue();

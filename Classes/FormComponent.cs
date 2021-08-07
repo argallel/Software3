@@ -8,7 +8,7 @@ namespace Assi3.Classes
     {
         public string value;
         public abstract void setValue(string value);
-        public abstract void getValue();
+        public abstract string getValue();
         public abstract void print();
     }
 }

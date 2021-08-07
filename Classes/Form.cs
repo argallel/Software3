@@ -29,7 +29,12 @@ namespace Assi3 {
 
         public void PrintForm()
         {
-
+            Console.WriteLine();
+            foreach(FormComponent comps in components)
+            {
+                comps.print();
+            }
+            Console.WriteLine();
         }
     }
 }

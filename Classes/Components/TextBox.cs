@@ -33,19 +33,20 @@ namespace Assi3.Classes.Components
             }
         }
 
-        public override void getValue()
+        public override string getValue()
         {
-            throw new NotImplementedException();
+            return _fc.getValue();
+
         }
 
         public override void print()
         {
-            throw new NotImplementedException();
+            _fc.print();
         }
 
         public override void setValue(string value)
         {
-            throw new NotImplementedException();
+            _fc.setValue(value);
         }
     }
 }

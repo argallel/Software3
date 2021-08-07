@@ -6,11 +6,12 @@ namespace Assi3.Classes.Components
 {
     class Email : FormComponent
     {
-        public override void getValue()
+        public override string getValue()
         {
             Console.WriteLine("Enter Email");
             Console.Write("> ");
             base.value = Console.ReadLine();
+            return value;
         }
 
         public override void print()

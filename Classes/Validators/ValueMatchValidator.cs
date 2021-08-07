@@ -15,16 +15,16 @@ namespace Assi3.Classes.Validators
             this.fc2 = fc2;
         }
 
-        public override void getValue()
+        public override string getValue()
         {
-            fc.getValue();
+            fc.value = fc.getValue();
             validate();
+            return value;
         }
 
         public override void print()
         {
             fc.print();
-            Console.WriteLine("With a number validator");
         }
 
         public override void setValue(string value)
@@ -37,7 +37,7 @@ namespace Assi3.Classes.Validators
             if (fc.value != fc2.value)
             {
                 Console.WriteLine("Inputs do not match.");
-                fc.getValue();
+                value = fc.getValue();
             }
         }
     }

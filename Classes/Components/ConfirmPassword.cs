@@ -6,11 +6,12 @@ namespace Assi3.Classes.Components
 {
     class ConfirmPassword : FormComponent
     {
-        public override void getValue()
+        public override string getValue()
         {
             Console.WriteLine("Confirm password");
             Console.Write("> ");
             base.value = Console.ReadLine();
+            return value;
         }
 
         public override void print()

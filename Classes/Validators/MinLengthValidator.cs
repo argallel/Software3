@@ -15,16 +15,16 @@ namespace Assi3.Classes.Validators
             this.length = length;
         }
 
-        public override void getValue()
+        public override string getValue()
         {
-            fc.getValue();
+            value = fc.getValue();
             validate();
+            return value;
         }
 
         public override void print()
         {
             fc.print();
-            Console.WriteLine("With a number validator");
         }
 
         public override void setValue(string value)
@@ -34,10 +34,10 @@ namespace Assi3.Classes.Validators
 
         public void validate()
         {
-            if (fc.value.Length < length)
+            if (value.Length < length)
             {
                 Console.WriteLine("Input is not long enough. Must be at least " + length + " characters.");
-                fc.getValue();
+                value = fc.getValue();
             }
         }
     }

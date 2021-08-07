@@ -10,3 +10,15 @@ C:\$$Visual_Workspace02\SDProject3\obj\Debug\netcoreapp2.2\Assi3.csproj.CoreComp
 C:\$$Visual_Workspace02\SDProject3\obj\Debug\netcoreapp2.2\Assi3.dll
 C:\$$Visual_Workspace02\SDProject3\obj\Debug\netcoreapp2.2\Assi3.pdb
 C:\$$Visual_Workspace02\SDProject3\obj\Debug\netcoreapp2.2\Assi3.genruntimeconfig.cache
+C:\Users\kathe\OneDrive\School\Fourth Semester\Software Design Patterns\Assi3Starter\bin\Debug\netcoreapp2.2\Assi3.deps.json
+C:\Users\kathe\OneDrive\School\Fourth Semester\Software Design Patterns\Assi3Starter\bin\Debug\netcoreapp2.2\Assi3.runtimeconfig.json
+C:\Users\kathe\OneDrive\School\Fourth Semester\Software Design Patterns\Assi3Starter\bin\Debug\netcoreapp2.2\Assi3.runtimeconfig.dev.json
+C:\Users\kathe\OneDrive\School\Fourth Semester\Software Design Patterns\Assi3Starter\bin\Debug\netcoreapp2.2\Assi3.dll
+C:\Users\kathe\OneDrive\School\Fourth Semester\Software Design Patterns\Assi3Starter\bin\Debug\netcoreapp2.2\Assi3.pdb
+C:\Users\kathe\OneDrive\School\Fourth Semester\Software Design Patterns\Assi3Starter\obj\Debug\netcoreapp2.2\Assi3.csprojAssemblyReference.cache
+C:\Users\kathe\OneDrive\School\Fourth Semester\Software Design Patterns\Assi3Starter\obj\Debug\netcoreapp2.2\Assi3.AssemblyInfoInputs.cache
+C:\Users\kathe\OneDrive\School\Fourth Semester\Software Design Patterns\Assi3Starter\obj\Debug\netcoreapp2.2\Assi3.AssemblyInfo.cs
+C:\Users\kathe\OneDrive\School\Fourth Semester\Software Design Patterns\Assi3Starter\obj\Debug\netcoreapp2.2\Assi3.csproj.CoreCompileInputs.cache
+C:\Users\kathe\OneDrive\School\Fourth Semester\Software Design Patterns\Assi3Starter\obj\Debug\netcoreapp2.2\Assi3.dll
+C:\Users\kathe\OneDrive\School\Fourth Semester\Software Design Patterns\Assi3Starter\obj\Debug\netcoreapp2.2\Assi3.pdb
+C:\Users\kathe\OneDrive\School\Fourth Semester\Software Design Patterns\Assi3Starter\obj\Debug\netcoreapp2.2\Assi3.genruntimeconfig.cache

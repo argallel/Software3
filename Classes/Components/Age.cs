@@ -6,11 +6,12 @@ namespace Assi3.Classes.Components
 {
     class Age : FormComponent
     {
-        public override void getValue()
+        public override string getValue()
         {
             Console.WriteLine("Enter age");
             Console.Write("> ");
             base.value = Console.ReadLine();
+            return base.value;
         }
 
         public override void print()
