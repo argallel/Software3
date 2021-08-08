@@ -17,8 +17,9 @@ namespace Assi3.Classes.Validators
 
         public override string getValue()
         {
-            fc.value = fc.getValue();
-            validate();
+            do { fc.value = fc.getValue();
+            } while (!validate());
+
             return value;
         }
 
@@ -32,13 +33,14 @@ namespace Assi3.Classes.Validators
             fc.setValue(value);
         }
 
-        public void validate()
+        public bool validate()
         {
             if (fc.value != fc2.value)
             {
                 Console.WriteLine("Inputs do not match.");
-                value = fc.getValue();
+                return false;
             }
+            return true;
         }
     }
 }

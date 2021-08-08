@@ -17,8 +17,9 @@ namespace Assi3.Classes.Validators
 
         public override string getValue()
         {
-            value = fc.getValue();
-            validate();
+            do { value = fc.getValue();
+            } while (!validate());
+            
             return value;
         }
 
@@ -32,13 +33,14 @@ namespace Assi3.Classes.Validators
             fc.setValue(value);
         }
 
-        public void validate()
+        public bool validate()
         {
             if (value.Length < length)
             {
                 Console.WriteLine("Input is not long enough. Must be at least " + length + " characters.");
-                value = fc.getValue();
+                return false;
             }
+            return true;
         }
     }
 }

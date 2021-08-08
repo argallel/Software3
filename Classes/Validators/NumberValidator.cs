@@ -15,8 +15,9 @@ namespace Assi3.Classes.Validators
 
         public override string getValue()
         {
-            value = fc.getValue();
-            validate();
+            do { value = fc.getValue();
+            } while (!validate());
+
             return value;
         }
 
@@ -30,13 +31,14 @@ namespace Assi3.Classes.Validators
             fc.setValue(value);
         }
 
-        public void validate()
+        public bool validate()
         {
-            if(!Int32.TryParse(value, out int x))
+            if(!int.TryParse(value, out _))
             {
                 Console.WriteLine("Input is not a valid integer.");
-                fc.getValue();
+                return false;
             }
+            return true;
         }
     }
 }
